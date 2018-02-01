@@ -1,0 +1,7 @@
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<classes>
+			<class name="com.mns.expedia.ExpediaHomeTest" />
+		</classes>
+	</test>
+</suite>

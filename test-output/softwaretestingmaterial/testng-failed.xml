@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [softwaretestingmaterial]">
+  <test name="testngTest(failed)">
+    <classes>
+      <class name="com.mns.expedia.ExpediaHomeTest">
+        <methods>
+          <include name="ticketSubmit"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.mns.expedia.ExpediaHomeTest -->
+    </classes>
+  </test> <!-- testngTest(failed) -->
+</suite> <!-- Failed suite [softwaretestingmaterial] -->
